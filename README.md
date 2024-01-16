@@ -1,7 +1,7 @@
 # NomeApp: GifDownloader - ITA
 
 ## Descrizione
-NomeApp è un'applicazione che permette di scaricare meme da Giphy. Gli utenti possono cercare e scaricare meme specifici basandosi su parole chiave.
+GifDownloader è un'applicazione che permette di scaricare meme da Giphy. Gli utenti possono cercare e scaricare meme specifici basandosi su parole chiave.
 
 ## Download dell'Eseguibile
 
@@ -12,7 +12,7 @@ Per scaricare l'eseguibile di GifDownloader, clicca sul seguente link:
 Una volta scaricato, puoi avviare l'applicazione facendo doppio clic sul file `gifdownloader.exe`.
 
 ## Come Usare
-Per utilizzare NomeApp, segui questi semplici passaggi:
+Per utilizzare GifDownloader, segui questi semplici passaggi:
 
 1. Avvia l'applicazione.
 2. Inserisci la tua API Key di Giphy nel campo "API Key".
@@ -46,7 +46,7 @@ Per utilizzare GifDownloader, avrai bisogno di una chiave API valida da Giphy. E
 # App Name: GifDownloader - ENG
 
 ## Description
-App Name is an application that allows you to download memes from Giphy. Users can search for and download specific memes based on keywords.
+GifDownloader is an application that allows you to download memes from Giphy. Users can search for and download specific memes based on keywords.
 
 ## Download the Executable
 
@@ -57,7 +57,7 @@ To download the GifDownloader executable, click the following link:
 Once downloaded, you can start the application by double-clicking on the `gifdownloader.exe` file.
 
 ## How to Use
-To use the App Name, follow these simple steps:
+To use the GifDownloader, follow these simple steps:
 
 1. Start the application.
 2. Enter your Giphy API Key in the "API Key" field.
