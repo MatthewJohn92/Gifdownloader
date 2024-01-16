@@ -7,7 +7,7 @@ NomeApp è un'applicazione che permette di scaricare meme da Giphy. Gli utenti p
 
 Per scaricare l'eseguibile di GifDownloader, clicca sul seguente link:
 
-[Scarica GifDownloader](/dist/gifdownloader.exe)
+[Scarica GifDownloader](GifDownloader/dist/gifdownloader.exe)
 
 Una volta scaricato, puoi avviare l'applicazione facendo doppio clic sul file `gifdownloader.exe`.
 
